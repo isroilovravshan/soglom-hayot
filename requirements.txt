@@ -4,3 +4,4 @@ aiogram>=3.0
 aiosqlite
 aiohttp
 google-generativeai
+google-genai
